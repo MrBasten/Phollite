@@ -3,7 +3,7 @@
 
 The name of the project stands for satellite photo. This is my first institutional practice. I need to process (segment) a satellite photo.
 
----
+___
 <h2 align="center">How does this code work</h2>
 
 1. First we need a file called "a program for selecting color parameters.py" and an experimental image "ng.png".
