@@ -2,7 +2,7 @@
 <h2 align="center">About this project</h2>
 
 The name of the project stands for satellite photo. This is my first institutional practice. I need to process (segment) a satellite photo.
-
+🛰
 ___
 <h2 align="center">How does this code work</h2>
 
